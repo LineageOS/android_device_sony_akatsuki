@@ -4,6 +4,3 @@ bluetooth.device.default_name=Xperia XZ3
 # Display postprocessing
 vendor.display.enable_default_color_mode=1
 vendor.display.disable_hdr_lut_gen=1
-
-# Netflix
-ro.netflix.bsp_rev=Q845-14477-1
