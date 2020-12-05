@@ -573,7 +573,6 @@ vendor/firmware/fpctzfingerprint.b07
 vendor/firmware/fpctzfingerprint.mdt
 
 # GNSS
--vendor/app/CACertService/CACertService.apk
 vendor/bin/hw/android.hardware.gnss@2.0-service-qti
 vendor/bin/loc_launcher
 vendor/bin/lowi-server
@@ -620,7 +619,6 @@ vendor/lib64/vendor.qti.gnss@2.0.so
 vendor/lib64/vendor.qti.gnss@2.1.so
 vendor/lib64/vendor.qti.gnss@3.0.so
 vendor/lib64/vendor.qti.gnss@3.0-service.so
-vendor/lib64/vendor.qti.hardware.cacert@1.0.so
 vendor/lib/hw/android.hardware.gnss@2.0-impl-qti.so
 vendor/lib/hw/vendor.qti.gnss@3.0-impl.so
 vendor/lib/libaoa.so
@@ -653,7 +651,6 @@ vendor/lib/vendor.qti.gnss@2.0.so
 vendor/lib/vendor.qti.gnss@2.1.so
 vendor/lib/vendor.qti.gnss@3.0.so
 vendor/lib/vendor.qti.gnss@3.0-service.so
-vendor/lib/vendor.qti.hardware.cacert@1.0.so
 
 # Keymaster
 vendor/bin/hw/android.hardware.keymaster@4.0-service-qti
