@@ -1,5 +1,6 @@
 # Device Type
 touch.deviceType = touchScreen
 
-# Pressure
-touch.pressure.scale = 0.009
+# Side touch
+touch.isSideTouch = 1
+
