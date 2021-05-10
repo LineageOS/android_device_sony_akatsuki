@@ -8,10 +8,10 @@
 set -e
 
 # Required!
-export DEVICE=xz2c
+export DEVICE=akatsuki
 export DEVICE_COMMON=tama-common
 export VENDOR=sony
 
-export DEVICE_BRINGUP_YEAR=2020
+export DEVICE_BRINGUP_YEAR=2021
 
 "./../../${VENDOR}/${DEVICE_COMMON}/setup-makefiles.sh" "$@"

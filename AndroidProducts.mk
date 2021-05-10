@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_xz2c.mk
+    $(LOCAL_DIR)/lineage_akatsuki.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_xz2c-user \
-    lineage_xz2c-userdebug \
-    lineage_xz2c-eng
+    lineage_akatsuki-user \
+    lineage_akatsuki-userdebug \
+    lineage_akatsuki-eng

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <device name="Android">
-    <item name="ambient.on">44.37</item>
-    <item name="screen.on">44.37</item>
-    <item name="screen.full">281.40</item>
+    <item name="ambient.on">28.83</item>
+    <item name="screen.on">94.23</item>
+    <item name="screen.full">296.49</item>
     <item name="bluetooth.active">0</item>
     <item name="bluetooth.on">0</item>
-    <item name="wifi.on">1.46</item>
+    <item name="wifi.on">1.01</item>
     <item name="wifi.active">92.06</item>
     <item name="wifi.scan">256.24</item>
-    <item name="audio">38.56</item>
-    <item name="video">140.89</item>
+    <item name="audio">33.56</item>
+    <item name="video">92.85</item>
     <item name="camera.flashlight">47.75</item>
-    <item name="camera.avg">579.00</item>
-    <item name="radio.active">97.37</item>
+    <item name="camera.avg">310.54</item>
+    <item name="radio.active">101.25</item>
     <item name="radio.scanning">10.94</item>
     <array name="radio.on">
         <value>4.70</value>
@@ -132,7 +132,7 @@
         <value>128.0</value>
         <value>143.9</value>
     </array>
-    <item name="battery.capacity">2760</item>
+    <item name="battery.capacity">3200</item>
     <item name="wifi.controller.idle">0.00</item>
     <item name="wifi.controller.rx">5.55</item>
     <item name="wifi.controller.tx">6.70</item>

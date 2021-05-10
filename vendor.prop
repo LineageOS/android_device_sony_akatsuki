@@ -2,8 +2,5 @@
 vendor.display.enable_default_color_mode=1
 vendor.display.disable_hdr_lut_gen=1
 
-# NFC
-ro.vendor.nfc.ko=nxp_pn553_nfc
-
 # Netflix
-ro.netflix.bsp_rev=Q845-05000-1
+ro.netflix.bsp_rev=Q845-14477-1
