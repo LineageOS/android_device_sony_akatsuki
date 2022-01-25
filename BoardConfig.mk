@@ -9,9 +9,6 @@
 
 DEVICE_PATH := device/sony/akatsuki
 
-# Assert
-TARGET_OTA_ASSERT_DEVICE := H8416,H9493,H9436,akatsuki,akatsuki_dual
-
 # Display
 TARGET_SCREEN_DENSITY := 480
 
