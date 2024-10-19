@@ -382,7 +382,7 @@ vendor/bin/hw/vendor.semc.hardware.secd@1.0-service
 
 # Sensors
 vendor/lib64/sensors.ssc.so
-vendor/lib/sensors.ssc.so
+vendor/lib/sensors.ssc.so;DISABLE_CHECKELF
 
 # Sensor configs
 vendor/etc/sensors/sns_reg_config
