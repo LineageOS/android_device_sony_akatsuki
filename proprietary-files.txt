@@ -393,5 +393,8 @@ vendor/etc/change.cfg
 # Touch firmware
 vendor/firmware/touch_module_id_0x01.img
 
+# Touch firmware (recovery)
+vendor/firmware/touch_module_id_0x01.img:recovery/root/vendor/firmware/touch_module_id_0x01.img
+
 # WiFi
 vendor/etc/wifi/bdwlan.bin
